@@ -3,7 +3,8 @@ Nanostation ACL frimware prereleases
 
 This directory contains binary firmware prereleases for the Nanostation AC loco
 
-**DO NOT USE THE IMAGES STARTING WITH `openwrt-ar71xx`! USE THEM ONLY IF YOU RUN INTO PROBLEMS WITH THE `openwrt-ath79` IMAGES!**
+**DO NOT USE THE IMAGES STARTING WITH `openwrt-ar71xx` THEY ARE CONSIDERED LEGACY AND WILL NOT BE UPDATED!
+USE THEM ONLY IF YOU RUN INTO PROBLEMS WITH THE `openwrt-ath79` IMAGES AND PLEASE FILE AN ISSUE!**
 
 See https://openwrt.org/toh/ubiquiti/ubiquiti_nanostation_ac_loco for instructions
 
